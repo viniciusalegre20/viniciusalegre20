@@ -12,7 +12,7 @@ Currently studying these languages:</p>
     <br>
     <hr>
     <br>
-  <img align="left" height="140em" src="https://github-readme-stats.vercel.app/api?username=viniciusalegre20&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=viniciusalegre20&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
     <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusalegre20&layout=compact&theme=dark"/>
     <br>
   <h2 align="center">Hobbies🚀</h2> <br>
