@@ -11,7 +11,10 @@ Currently studying these languages:</p>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <br>
     <hr>
+    <br>
   <img align="left" height="140em" src="https://github-readme-stats.vercel.app/api?username=viniciusalegre20&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+    <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusalegre20&layout=compact&theme=dark"/>
+    <br>
   <h2 align="center">Hobbies🚀</h2> <br>
   <p align="center">
     · Cooking 🍳 <br>
